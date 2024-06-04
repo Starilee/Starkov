@@ -1,4 +1,5 @@
-# This is a repository intended to be used with MPT UPDATER (https://github.com/smarterskipper/MPT-UPDATER)
+# This is a repository intended to be used with MPT UPDATER
+(https://github.com/smarterskipper/MPT-UPDATER)
 
 As per the updater repo:
 ### Installation
