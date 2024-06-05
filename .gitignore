@@ -36,3 +36,4 @@ BepInEx/*
 !User
 User/*
 !User/Mods
+!User/cache
